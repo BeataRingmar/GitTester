@@ -8,5 +8,6 @@ public class App {
         System.out.println("I am person B making a change");
         System.out.println("Making another change");
 
+        System.out.println("I am person A making a change");
     }
 }
